@@ -1,2 +1,2 @@
 # EverKDZ
-Cartridge base for EVERCADE Console.
+Cartridge base for EVERCADE Console for Linux users.
